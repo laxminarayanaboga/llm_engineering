@@ -1,3 +1,11 @@
+## Acknowledgements
+
+This repository is based on the original work by [ed-donner](https://github.com/ed-donner) — [llm_engineering](https://github.com/ed-donner/llm_engineering).
+
+All credit goes to the original author for the foundational implementation.  
+This fork is intended purely for learning, experimentation, and personal exploration purposes.
+
+
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
